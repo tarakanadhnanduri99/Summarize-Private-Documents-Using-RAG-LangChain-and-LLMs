@@ -110,5 +110,5 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-**Taraka Nadh (Chinna Pandu)**
+**Venkata Taraka Nadh Nanduri**
 💼 Aspiring Data Analyst | AIML Engineer | Full-Stack Python Developer
